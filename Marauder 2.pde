@@ -1,4 +1,4 @@
-TITLE 'Marauder 2' { the problem identification }
+TITLE 'Marauder 2'
 COORDINATES cartesian1 { coordinate system, 1D,2D,3D, etc }
 VARIABLES { system variables }
 rx(threshold=1e-5)
